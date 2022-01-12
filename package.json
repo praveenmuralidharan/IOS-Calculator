@@ -2,7 +2,7 @@
   "name": "calculator",
   "version": "0.1.0",
   "license": "MIT",
-  "homepage": "http://3.88.183.69",
+  "homepage": "http://3.88.183.69/IOS-Calculator/build",
   "devDependencies": {
     "chai": "^4.2.0",
     "gh-pages": "^2.0.1",
